@@ -10,7 +10,7 @@
 > - AWS CLI configured with access key, secret key, and default region.
 
 
-## Colaboradores
+## Collaborators
 
    <p align="left">
       <a href="https://github.com/cgaviria44/">
